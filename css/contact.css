@@ -1,0 +1,13 @@
+body{
+	background-image: url("contact.jpg");
+}
+.cont{
+
+	text-align: center;
+	margin-top: 50px;
+}
+img{
+	/*padding-left: : 20%;*/
+	
+	border-radius: 50%;
+}

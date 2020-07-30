@@ -1,0 +1,23 @@
+body{
+	background-image: url("about.jpg");
+
+}
+h2{
+	color: black;
+	padding: 20px;
+	font-size: 40px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	border-radius: 50%;
+	background-color: rgb(255, 221, 97); 
+}
+.role{	margin: 0;
+	text-align: center;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 40px;
+}
+p{	padding: 30px;
+	font-size: 30px;
+	font-family: 'Dancing Script', cursive;
+	background-color:	rgba(255, 221, 97, 0.5);
+	border-radius: 50%; 
+}
