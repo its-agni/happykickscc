@@ -8,8 +8,8 @@ Happy Kicks is a therepy community front-end website project. Coded in HTML and 
   - Home
   - About Us
   - Know Yourself
-  - Contact Us
-Link: https://its-agni.github.io/happykickscc.github.io/  
+  - Contact Us <br>
+ Link: https://its-agni.github.io/happykickscc.github.io/
 
 #  Features!
 happykickscc.github.io is self explanatory in terms of usage. 
